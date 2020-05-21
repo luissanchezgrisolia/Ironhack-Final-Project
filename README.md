@@ -4,7 +4,7 @@ Final project for Ironhack bootcamp
 **_If you like think about writting the shopping list and what to cook every single week, don't read on_**
 
 # LaComprApp
-![alt text](INPUT/imagn.jpg)
+![alt text](Input/imagn.jpg)
 
 From now on your only worries should be answer some questions and let "LaComprApp" do its job.
 
